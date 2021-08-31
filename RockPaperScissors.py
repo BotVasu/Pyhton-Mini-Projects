@@ -60,4 +60,4 @@ while temp == "Yes" or temp == "Y" or temp == "yes" or temp =="y":
         sys.exit()
     else:
         print("Invalid Input!")
-        temp = str(input("Only give: Yes or No\n"))
+        temp = str(input("Only type: Yes or No\n"))
